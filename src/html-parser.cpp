@@ -1,3 +1,15 @@
+/*
+ * Student Name: PJ Neidlinger
+ * Program Name: HTML Parser
+ * Creation Date: 10/17/2017
+ * Last Modified Date: 10/18/2017
+ * CSCI Course: CSCI 315
+ * Grade Received: 100
+ * Comments Regarding Design: Dr. West, the instructor for CSCI 315, created the main file and the html files
+ * in the pages/ directory. He tasked us with creating the actual cpp file to parse html files, along with 
+ * the header file.
+*/
+
 #include "html-parser.hpp"
 #include <iostream>
 #include <fstream>
